@@ -1,0 +1,1809 @@
+[
+  {
+    "id": 2,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which pair of quantities do not have the same SI base units?",
+    "options": {
+      "A": "electromotive force and electric potential difference",
+      "B": "pressure and stress",
+      "C": "spring constant and moment of a force",
+      "D": "torque and work"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which quantity with its unit is correct?",
+    "options": {
+      "A": "acceleration of a bicycle = 1.4 ms⁻¹",
+      "B": "electric current in a lamp = 0.25 As⁻¹",
+      "C": "electric potential difference across a battery = 8.0 J C⁻¹",
+      "D": "kinetic energy of a car = 4500 Nm⁻¹"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The luminosity L of a star is given by L = 4πr²σT⁴ where r is the radius of the star, T is the temperature of the star, σ is a constant with units W m⁻² K⁻⁴. What are the SI base units of L?",
+    "options": {
+      "A": "kg m² s⁻¹",
+      "B": "kg m² s⁻²",
+      "C": "kg m² s⁻³",
+      "D": "kg m² s⁻⁴"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which list contains only SI base units?",
+    "options": {
+      "A": "ampere, kelvin, joule, gram",
+      "B": "kilogram, newton, metre, ampere",
+      "C": "metre, coulomb, second, kelvin",
+      "D": "second, kelvin, ampere, kilogram"
+    },
+    "answer": "D",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The stress needed to fracture a particular solid is given by the equation σ = k * sqrt(γE / d) where E is the Young modulus, d is the distance between planes of atoms, and k is a constant with no units. What are the SI base units of γ?",
+    "options": {
+      "A": "kg m s⁻²",
+      "B": "kg s⁻²",
+      "C": "kg m s⁻¹",
+      "D": "kg s⁻¹"
+    },
+    "answer": "B",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is the unit of weight in terms of SI base unit(s)?",
+    "options": {
+      "A": "kg m s⁻¹",
+      "B": "kg m s⁻²",
+      "C": "N",
+      "D": "J m⁻¹"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "At temperatures close to 0K, the specific heat capacity c of a particular solid is given by c = bT³, where T is the thermodynamic temperature and b is a constant characteristic of the solid. The SI unit of specific heat capacity is J kg⁻¹ K⁻¹. What is the unit of constant b, expressed in SI base units?",
+    "options": {
+      "A": "m² s⁻² K⁻³",
+      "B": "m² s⁻² K⁻⁴",
+      "C": "kg m² s⁻² K⁻³",
+      "D": "kg m² s⁻² K⁻⁴"
+    },
+    "answer": "B",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "In making reasonable estimates of physical quantities, which statement is not correct?",
+    "options": {
+      "A": "The frequency of sound can be of the order of GHz.",
+      "B": "The wavelength of light can be of the order of 600 nm.",
+      "C": "The Young modulus of a metal can be of the order of 10¹¹ Pa.",
+      "D": "Beta particles are associated with one unit of negative charge."
+    },
+    "answer": "A",
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which list shows increasing lengths from beginning to end?",
+    "options": {
+      "A": "1 cm, 1 mm, 1 nm, 1 µm",
+      "B": "1 µm, 1 nm, 1 mm, 1 cm",
+      "C": "1 nm, 1 µm, 1 mm, 1 cm",
+      "D": "1 mm, 1 cm, 1 µm, 1 nm"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which equation contains only scalar quantities?",
+    "options": {
+      "A": "acceleration = force / mass",
+      "B": "power = work / time",
+      "C": "pressure = force / area",
+      "D": "velocity = displacement / time"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The time T taken for a satellite to orbit the Earth on a circular path is given by the equation T² = kr³ / M where r is the radius of the orbit, M is the mass of the Earth and k is a constant. What are the SI base units of k?",
+    "options": {
+      "A": "kg⁻¹ m⁻³ s²",
+      "B": "kg⁻¹ m³ s²",
+      "C": "kg m⁻³ s²",
+      "D": "kg m³ s²"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which row gives reasonable estimates for the mass and the speed of an adult running?",
+    "options": {
+      "A": "mass = 6 * 10⁰ kg, speed = 5 * 10¹ ms⁻¹",
+      "B": "mass = 6 * 10¹ kg, speed = 5 * 10⁰ ms⁻¹",
+      "C": "mass = 6 * 10¹ kg, speed = 5 * 10¹ ms⁻¹",
+      "D": "mass = 6 * 10² kg, speed = 5 * 10⁰ ms⁻¹"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A student measures the time T for one complete oscillation of a pendulum of length l. Her results are: l = 0.420 ± 0.001 m, T = 1.3 ± 0.1 s. She uses the formula T = 2π * sqrt(l/g) to calculate the acceleration of free fall g. What is the best estimate of the percentage uncertainty in the value of g?",
+    "options": {
+      "A": "0.02%",
+      "B": "4%",
+      "C": "8%",
+      "D": "16%"
+    },
+    "answer": "D",
+    "difficulty": 3
+  },
+  {
+    "id": 25,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is the unit of the Young modulus when expressed in SI base units?",
+    "options": {
+      "A": "kg m⁻¹ s⁻²",
+      "B": "kg m³ s⁻²",
+      "C": "kg m⁻²",
+      "D": "kg m⁻¹ s⁻¹"
+    },
+    "answer": "A",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The Reynolds number R is a constant used in the study of liquids flowing through pipes. R is a pure number with no unit. R = ρvD / µ where ρ is the density of the liquid, v is the speed of the liquid and D is the diameter of the pipe through which the liquid flows. What are the SI base units of µ?",
+    "options": {
+      "A": "kg m s",
+      "B": "kg m⁻¹ s",
+      "C": "kg m s⁻¹",
+      "D": "kg m⁻¹ s⁻¹"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "When a force F moves its point of application through a displacement s in the direction of the force, the work W done by the force is given by W = Fs. How many vector quantities and scalar quantities does this equation contain?",
+    "options": {
+      "A": "one scalar quantity and two vector quantities",
+      "B": "one vector quantity and two scalar quantities",
+      "C": "three scalar quantities",
+      "D": "three vector quantities"
+    },
+    "answer": "A",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Measurements are subject to systematic error and random error. Which measurements have high accuracy and low precision?",
+    "options": {
+      "A": "high random error and high systematic error",
+      "B": "high random error and low systematic error",
+      "C": "low random error and high systematic error",
+      "D": "low random error and low systematic error"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The density of the material of a coil of thin wire is to be found. Which set of instruments could be used to do this most accurately?",
+    "options": {
+      "A": "metre rule, protractor, spring balance",
+      "B": "micrometer, metre rule, top-pan balance",
+      "C": "stopwatch, newton-meter, vernier calipers",
+      "D": "tape measure, vernier calipers, lever balance"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which is an SI base unit?",
+    "options": {
+      "A": "current",
+      "B": "gram",
+      "C": "kelvin",
+      "D": "volt"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which pair contains one vector and one scalar quantity?",
+    "options": {
+      "A": "displacement and acceleration",
+      "B": "force and kinetic energy",
+      "C": "momentum and velocity",
+      "D": "power and speed"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "When a constant braking force is applied to a vehicle moving at speed v, the distance d moved by the vehicle in coming to rest is given by the expression d = kv² where k is a constant. When d is measured in metres and v is measured in metres per second, the constant has a value of k₁. What is the value of the constant when the distance is measured in metres, and the speed is measured in kilometres per hour?",
+    "options": {
+      "A": "0.0772 k₁",
+      "B": "0.278 k₁",
+      "C": "3.60 k₁",
+      "D": "13.0 k₁"
+    },
+    "answer": "A",
+    "difficulty": 3
+  },
+  {
+    "id": 35,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A whale produces sound waves of frequency 5 Hz. The waves are detected by a microphone and displayed on an oscilloscope. What is the time-base setting on the oscilloscope?",
+    "options": {
+      "A": "0.1 ms div⁻¹",
+      "B": "1 ms div⁻¹",
+      "C": "10 ms div⁻¹",
+      "D": "100 ms div⁻¹"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The strain energy W of a spring is determined from its spring constant k and extension x. The spring obeys Hooke's law and the value of W is calculated using W = 0.5kx². The spring constant is 100 ± 2 N m⁻¹ and the extension is 0.050 ± 0.002 m. What is the percentage uncertainty in the calculated value of W?",
+    "options": {
+      "A": "6%",
+      "B": "10%",
+      "C": "16%",
+      "D": "32%"
+    },
+    "answer": "B",
+    "difficulty": 3
+  },
+  {
+    "id": 38,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which definition is correct and uses only quantities rather than units?",
+    "options": {
+      "A": "Density is mass per cubic metre.",
+      "B": "Potential difference is energy per unit current.",
+      "C": "Pressure is force per unit area.",
+      "D": "Speed is distance travelled per second."
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The average kinetic energy E of a gas molecule is given by the equation E = 1.5kT where T is the absolute (kelvin) temperature. What are the SI base units of k?",
+    "options": {
+      "A": "kg⁻¹ m⁻¹ s² K",
+      "B": "kg⁻¹ m⁻² s² K",
+      "C": "kg m s⁻² K⁻¹",
+      "D": "kg m² s⁻² K⁻¹"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which statement includes a correct unit?",
+    "options": {
+      "A": "energy = 7.8 N s",
+      "B": "force = 3.8 N s",
+      "C": "momentum = 6.2 N s",
+      "D": "torque = 4.7 N s"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is the joule (J) in SI base units?",
+    "options": {
+      "A": "kg m s⁻¹",
+      "B": "kg m² s⁻¹",
+      "C": "kg m s⁻²",
+      "D": "kg m² s⁻²"
+    },
+    "answer": "D",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A student is given a reel of wire of diameter less than 0.2 mm and is asked to find the density of the metal. Which pair of instruments would be most suitable for finding the volume of the wire?",
+    "options": {
+      "A": "balance and micrometer",
+      "B": "metre rule and micrometer",
+      "C": "metre rule and vernier calipers",
+      "D": "micrometer and vernier calipers"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "In a simple electrical circuit, the current in a resistor is measured as (2.50 ± 0.05) mA. The resistor is marked as having a value of 4.7 Ω ± 2%. If these values were used to calculate the power dissipated in the resistor, what would be the percentage uncertainty in the value obtained?",
+    "options": {
+      "A": "2%",
+      "B": "4%",
+      "C": "6%",
+      "D": "8%"
+    },
+    "answer": "C",
+    "difficulty": 3
+  },
+  {
+    "id": 49,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A 0.10 kg mass is taken to Mars and then weighed on a spring balance and on a lever balance. The acceleration due to gravity on Mars is 38% of its value on Earth. What are the readings on the two balances on Mars? (Assume that on Earth g = 10 ms⁻².)",
+    "options": {
+      "A": "spring balance = 0.38 N, lever balance = 0.038 kg",
+      "B": "spring balance = 0.38 N, lever balance = 0.10 kg",
+      "C": "spring balance = 1.0 N, lever balance = 0.038 kg",
+      "D": "spring balance = 1.0 N, lever balance = 0.10 kg"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is equivalent to the unit of electric field strength?",
+    "options": {
+      "A": "J C m⁻¹",
+      "B": "N s A⁻¹",
+      "C": "kg m s⁻³ A⁻¹",
+      "D": "kg m³ s⁻³ A⁻¹"
+    },
+    "answer": "C",
+    "difficulty": 3
+  },
+  {
+    "id": 52,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A steel wire is stretched in an experiment to determine the Young modulus for steel. The uncertainties in the measurements are given below: load on wire ±2%, length of wire ±0.2%, diameter of wire ±1.5%, extension ±1%. What is the percentage uncertainty in the Young modulus?",
+    "options": {
+      "A": "1.3%",
+      "B": "1.8%",
+      "C": "4.7%",
+      "D": "6.2%"
+    },
+    "answer": "D",
+    "difficulty": 3
+  },
+  {
+    "id": 53,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "When the brakes are applied on a vehicle moving at speed v, the distance d moved by the vehicle in coming to rest is given by the expression d = kv² where k is a constant. What is the unit of k expressed in SI base units?",
+    "options": {
+      "A": "m⁻¹ s²",
+      "B": "m s⁻²",
+      "C": "m² s⁻²",
+      "D": "m⁻¹ s"
+    },
+    "answer": "A",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which list contains one vector quantity and two scalar quantities?",
+    "options": {
+      "A": "displacement, weight, velocity",
+      "B": "force, acceleration, time",
+      "C": "momentum, mass, speed",
+      "D": "work, density, energy"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The resistance R of a resistor is to be determined. The current I in the resistor and the potential difference V across it are measured. The results, with their uncertainties, are I = (2.0 ± 0.2) A and V = (15.0 ± 0.5) V. The value of R is calculated to be 7.5 Ω. What is the uncertainty in this value for R?",
+    "options": {
+      "A": "±0.3 Ω",
+      "B": "±0.5 Ω",
+      "C": "±0.7 Ω",
+      "D": "±1 Ω"
+    },
+    "answer": "D",
+    "difficulty": 3
+  },
+  {
+    "id": 58,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which pair of units contains one derived unit and one SI base unit?",
+    "options": {
+      "A": "ampere and coulomb",
+      "B": "kilogram and kelvin",
+      "C": "metre and second",
+      "D": "newton and pascal"
+    },
+    "answer": "A",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is equivalent to 2000 microvolts?",
+    "options": {
+      "A": "2 µJ C⁻¹",
+      "B": "2 mV",
+      "C": "2 pV",
+      "D": "2000 mV"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The speed v of a liquid leaving a tube depends on the change in pressure ΔP and the density ρ of the liquid. The speed is given by the equation v = k(ΔP / ρ)ⁿ where k is a constant that has no units. What is the value of n?",
+    "options": {
+      "A": "0.5",
+      "B": "1",
+      "C": "1.5",
+      "D": "2"
+    },
+    "answer": "A",
+    "difficulty": 2
+  },
+  {
+    "id": 61,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "An experiment is carried out to measure the resistance of a wire. The current in the wire is (1.0 ± 0.2) A and the potential difference across the wire is (8.0 ± 0.4) V. What is the resistance of the wire and its uncertainty?",
+    "options": {
+      "A": "(8.0 ± 0.2) Ω",
+      "B": "(8.0 ± 0.6) Ω",
+      "C": "(8 ± 1) Ω",
+      "D": "(8 ± 2) Ω"
+    },
+    "answer": "D",
+    "difficulty": 3
+  },
+  {
+    "id": 62,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The Young modulus of the material of a wire is to be found. The Young modulus E is given by the equation E = 4Fl / (πd²x). The wire is extended by a known force and the following measurements are made: length of wire l = 2.043 ± 0.002 m, diameter of wire d = 0.54 ± 0.02 mm, force applied F = 19.62 ± 0.01 N, extension of wire x = 5.2 ± 0.2 mm. Which measurement has the largest effect on the uncertainty in the value of the calculated Young modulus?",
+    "options": {
+      "A": "length of wire before force applied (l)",
+      "B": "diameter of wire (d)",
+      "C": "force applied (F)",
+      "D": "extension of wire with force applied (x)"
+    },
+    "answer": "B",
+    "difficulty": 3
+  },
+  {
+    "id": 63,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The maximum theoretical power P of a wind turbine is given by the equation P = kρAvⁿ where ρ is the density of air, A is the area swept by the turbine blades, v is the speed of the air and k is a constant with no units. What is the value of n?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 64,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is the unit of resistance when expressed in SI base units?",
+    "options": {
+      "A": "kg m² s⁻² A⁻¹",
+      "B": "kg m² s⁻³ A⁻²",
+      "C": "kg m s⁻² A⁻¹",
+      "D": "kg m s⁻³ A⁻¹"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 66,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A quantity y is to be determined from the equation y = px / q². The percentage uncertainties in p, x and q are 6%, 2% and 4% respectively. What is the percentage uncertainty in y?",
+    "options": {
+      "A": "0.5%",
+      "B": "1%",
+      "C": "16%",
+      "D": "192%"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 67,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A thermometer can be read to an accuracy of ±0.5 °C. This thermometer is used to measure a temperature rise from 40 °C to 100 °C. What is the percentage uncertainty in the measurement of the temperature rise?",
+    "options": {
+      "A": "0.5%",
+      "B": "0.8%",
+      "C": "1.3%",
+      "D": "1.7%"
+    },
+    "answer": "D",
+    "difficulty": 3
+  },
+  {
+    "id": 68,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which quantity can be measured in electronvolts (eV)?",
+    "options": {
+      "A": "electric charge",
+      "B": "electric potential",
+      "C": "energy",
+      "D": "power"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 69,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The unit of specific heat capacity is J kg⁻¹ K⁻¹. What is its equivalent in terms of SI base units?",
+    "options": {
+      "A": "kg⁻¹ m² K⁻¹",
+      "B": "m s⁻¹ K⁻¹",
+      "C": "m s⁻² K⁻¹",
+      "D": "m² s⁻² K⁻¹"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 71,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The resistance of a lamp is calculated from the value of the potential difference (p.d.) across it and the value of the current passing through it. Which statement correctly describes how to combine the uncertainties in the p.d. and in the current?",
+    "options": {
+      "A": "Add together the actual uncertainty in the p.d. and the actual uncertainty in the current.",
+      "B": "Add together the percentage uncertainty in the p.d. and the percentage uncertainty in the current.",
+      "C": "Subtract the actual uncertainty in the current from the actual uncertainty in the p.d.",
+      "D": "Subtract the percentage uncertainty in the current from the percentage uncertainty in the p.d."
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which row shows an SI base quantity with its correct unit?",
+    "options": {
+      "A": "charge | coulomb",
+      "B": "current | ampere",
+      "C": "potential difference | volt",
+      "D": "temperature | degree Celsius"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 75,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The drag coefficient Cd is a number with no units. It is used to compare the drag on different cars at different speeds. It is given by the equation Cd = 2F / (ρvⁿA) where F is the drag force on the car, ρ is the density of the air, A is the cross-sectional area of the car and v is the speed of the car. What is the value of n?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A micrometer screw gauge is used to measure the diameter of a small uniform steel sphere. The micrometer reading is 5.00 mm ± 0.01 mm. What will be the percentage uncertainty in a calculation of the volume of the sphere, using these values?",
+    "options": {
+      "A": "0.2%",
+      "B": "0.4%",
+      "C": "0.6%",
+      "D": "1.2%"
+    },
+    "answer": "C",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which estimate is realistic?",
+    "options": {
+      "A": "The kinetic energy of a bus travelling on an expressway is 30000 J.",
+      "B": "The power of a domestic light is 300 W.",
+      "C": "The temperature of a hot oven is 300 K.",
+      "D": "The volume of air in a car tyre is 0.03 m³."
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 79,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which unit is equivalent to the coulomb?",
+    "options": {
+      "A": "ampere per second",
+      "B": "joule per volt",
+      "C": "watt per ampere",
+      "D": "watt per volt"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Two forces of equal magnitude are represented by two coplanar vectors. One is directed eastwards and the other is directed northwards. What is the direction of a single force that will balance these two forces?",
+    "options": {
+      "A": "towards the north-east",
+      "B": "towards the north-west",
+      "C": "towards the south-east",
+      "D": "towards the south-west"
+    },
+    "answer": "D",
+    "difficulty": 1
+  },
+  {
+    "id": 81,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The spring constant k of a coiled wire spring is given by the equation k = Gr⁴ / (4nR³) where r is the radius of the wire, n is the number of turns of wire and R is the radius of each of the turns of wire. The quantity G depends on the material from which the wire is made. What is a suitable unit for G?",
+    "options": {
+      "A": "Nm⁻²",
+      "B": "Nm⁻¹",
+      "C": "Nm",
+      "D": "Nm²"
+    },
+    "answer": "A",
+    "difficulty": 3
+  },
+  {
+    "id": 83,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which pair of quantities contains one vector and one scalar quantity?",
+    "options": {
+      "A": "displacement; force",
+      "B": "kinetic energy; power",
+      "C": "acceleration; momentum",
+      "D": "velocity; distance"
+    },
+    "answer": "D",
+    "difficulty": 1
+  },
+  {
+    "id": 84,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "One property Q of a material is used to describe the behaviour of sound waves in the material. Q is defined as the pressure P of the sound wave divided by the speed v of the wave and the surface area A of the material through which the wave travels: Q = P / (vA). What are the SI base units of Q?",
+    "options": {
+      "A": "kg m² s⁻³",
+      "B": "kg m⁻³ s⁻¹",
+      "C": "kg m⁻⁴ s⁻¹",
+      "D": "kg m⁻² s⁻²"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 85,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A wave has a frequency of 5 GHz. What is the period of the wave?",
+    "options": {
+      "A": "20000 µs",
+      "B": "20 ns",
+      "C": "2 ns",
+      "D": "200 ps"
+    },
+    "answer": "D",
+    "difficulty": 1
+  },
+  {
+    "id": 86,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "In an experiment to determine the acceleration of free fall g, the period of oscillation T and length l of a simple pendulum were measured. The uncertainty in the measurement of l is estimated to be 4%, and the uncertainty in the measurement of T is estimated to be 1%. The value of g is determined using the formula g = 4π²l / T². What is the uncertainty in the calculated value for g?",
+    "options": {
+      "A": "2%",
+      "B": "3%",
+      "C": "5%",
+      "D": "6%"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 88,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which pair includes a vector quantity and a scalar quantity?",
+    "options": {
+      "A": "displacement; acceleration",
+      "B": "force; kinetic energy",
+      "C": "power; speed",
+      "D": "work; potential energy"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 89,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The unit of resistivity, expressed in terms of base units, is given by kg x³ y⁻² z⁻³. Which base units are x, y and z?",
+    "options": {
+      "A": "x = ampere, y = metre, z = second",
+      "B": "x = metre, y = ampere, z = second",
+      "C": "x = metre, y = second, z = ampere",
+      "D": "x = second, y = ampere, z = metre"
+    },
+    "answer": "B",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A student carried out an experiment in which an electric current was known to decrease with time. The readings he found, from first to last, were 3.62 mA, 2.81 mA, 1.13 mA, 1.76 mA and 0.90 mA. Which statement could not explain the anomalous 1.13 mA reading?",
+    "options": {
+      "A": "He has reversed the third and fourth readings in the results table.",
+      "B": "He read the ammeter incorrectly; the reading should have been 2.13mA.",
+      "C": "He took the current reading at the wrong time.",
+      "D": "There was a systematic error in the readings from the ammeter."
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 93,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is the unit of power, expressed in SI base units?",
+    "options": {
+      "A": "kg m² s⁻³",
+      "B": "kg m s⁻³",
+      "C": "kg m s⁻²",
+      "D": "kg m² s⁻¹"
+    },
+    "answer": "A",
+    "difficulty": 1
+  },
+  {
+    "id": 94,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which statement is incorrect by a factor of 100 or more?",
+    "options": {
+      "A": "Atmospheric pressure is about 1 × 10⁵ Pa.",
+      "B": "Light takes 5 × 10² s to reach us from the Sun.",
+      "C": "The frequency of ultra-violet light is 3 × 10¹² Hz.",
+      "D": "The life-span of a man is about 2 × 10⁹ s."
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 96,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A student takes measurements of the current in a resistor of constant resistance and the potential difference (p.d.) across it. The readings are then used to plot a graph of current against p.d. There is a systematic error in the current readings. How could this be identified from the graph?",
+    "options": {
+      "A": "At least one anomalous data point can be identified.",
+      "B": "The data points are scattered about the straight line of best fit.",
+      "C": "The graph is a curve, not a straight line.",
+      "D": "The straight line graph does not pass through the origin."
+    },
+    "answer": "D",
+    "difficulty": 1
+  },
+  {
+    "id": 98,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is the unit of weight in terms of SI base unit(s)?",
+    "options": {
+      "A": "kg m s⁻¹",
+      "B": "kg m s⁻²",
+      "C": "N",
+      "D": "J m⁻¹"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 100,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is the approximate temperature of a red-hot ring on an electric cooker?",
+    "options": {
+      "A": "100 °C",
+      "B": "200 °C",
+      "C": "400 °C",
+      "D": "800 °C"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 101,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which list contains only scalar quantities?",
+    "options": {
+      "A": "area, length, displacement",
+      "B": "kinetic energy, speed, power",
+      "C": "potential energy, momentum, time",
+      "D": "velocity, distance, temperature"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 102,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The density of the material of a coil of thin wire is to be found. Which set of instruments could be used to do this most accurately?",
+    "options": {
+      "A": "metre rule, protractor, spring balance",
+      "B": "micrometer, metre rule, top-pan balance",
+      "C": "stopwatch, newton-meter, vernier calipers",
+      "D": "tape measure, vernier calipers, lever balance"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 104,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The measurement of a physical quantity may be subject to random errors and to systematic errors. Which statement is correct?",
+    "options": {
+      "A": "Random errors can be reduced by taking the average of several measurements.",
+      "B": "Random errors are always caused by the person taking the measurement.",
+      "C": "A systematic error cannot be reduced by adjusting the apparatus.",
+      "D": "A systematic error results in a different reading each time the measurement is taken."
+    },
+    "answer": "A",
+    "difficulty": 1
+  },
+  {
+    "id": 105,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which quantity has the same base units as momentum?",
+    "options": {
+      "A": "density x energy",
+      "B": "density x volume x velocity",
+      "C": "pressure x area",
+      "D": "weight / area"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 107,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is the approximate kinetic energy of an Olympic athlete when running at maximum speed during a 100 m race?",
+    "options": {
+      "A": "400 J",
+      "B": "4000 J",
+      "C": "40 000 J",
+      "D": "400 000 J"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 108,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Physical quantities can be classed as vectors or as scalars. Which pair of quantities are both vectors?",
+    "options": {
+      "A": "kinetic energy and elastic force",
+      "B": "momentum and time",
+      "C": "velocity and electric field strength",
+      "D": "weight and temperature"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 109,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A student is given a reel of wire of diameter less than 0.2 mm and is asked to find the density of the metal. Which pair of instruments would be most suitable for finding the volume of the wire?",
+    "options": {
+      "A": "balance and micrometer",
+      "B": "metre rule and micrometer",
+      "C": "metre rule and vernier calipers",
+      "D": "micrometer and vernier calipers"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 111,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The speed of a car is calculated from measurements of the distance travelled and the time taken. The distance is measured as 200 m, with an uncertainty of ±2 m. The time is measured as 10.0 s, with an uncertainty of ±0.2 s. What is the percentage uncertainty in the calculated speed?",
+    "options": {
+      "A": "±0.5%",
+      "B": "±1%",
+      "C": "±2%",
+      "D": "±3%"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 112,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The units of all physical quantities can be expressed in terms of SI base units. Which pair contains quantities with the same base units?",
+    "options": {
+      "A": "force and momentum",
+      "B": "pressure and Young modulus",
+      "C": "power and kinetic energy",
+      "D": "mass and weight"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 114,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A 1.5V cell supplies 0.20 A to a lamp for seven hours before the lamp goes out. What is a sensible estimate for the initial chemical energy content of the cell?",
+    "options": {
+      "A": "1 × 10² J",
+      "B": "1 × 10⁴ J",
+      "C": "1 × 10⁶ J",
+      "D": "1 × 10⁸ J"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 115,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Three of these quantities have the same unit. Which quantity has a different unit?",
+    "options": {
+      "A": "energy / distance",
+      "B": "force",
+      "C": "power x time",
+      "D": "rate of change of momentum"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 117,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What will reduce the systematic errors when taking a measurement?",
+    "options": {
+      "A": "adjusting the needle on a voltmeter so that it reads zero when there is no potential difference across it",
+      "B": "measuring the diameter of a wire at different points and taking the average",
+      "C": "reducing the parallax effects by using a marker and a mirror when measuring the amplitude of oscillation of a pendulum",
+      "D": "timing 20 oscillations, rather than a single oscillation, when finding the period of a pendulum"
+    },
+    "answer": "A",
+    "difficulty": 1
+  },
+  {
+    "id": 118,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "In an experiment to determine the acceleration of free fall g, the time t taken for a ball to fall through distance s was measured. The uncertainty in the measurement of s is estimated to be 2%. The uncertainty in the measurement of t is estimated to be 3%. The value of g is determined using the equation g = 2s / t². What is the uncertainty in the calculated value of g?",
+    "options": {
+      "A": "1%",
+      "B": "5%",
+      "C": "8%",
+      "D": "11%"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 119,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "When a force F moves its point of application through a displacement s in the direction of the force, the work W done by the force is given by W = Fs. How many vector quantities and scalar quantities does this equation contain?",
+    "options": {
+      "A": "one scalar quantity and two vector quantities",
+      "B": "one vector quantity and two scalar quantities",
+      "C": "three scalar quantities",
+      "D": "three vector quantities"
+    },
+    "answer": "A",
+    "difficulty": 1
+  },
+  {
+    "id": 120,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is a possible unit for the product VI, where V is the potential difference across a resistor and I is the current through the same resistor?",
+    "options": {
+      "A": "newton per second (N s⁻¹)",
+      "B": "newton second (N s)",
+      "C": "newton metre (N m)",
+      "D": "newton metre per second (N m s⁻¹)"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 121,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is a reasonable estimate of the average kinetic energy of an athlete during a 100 m race that takes 10s?",
+    "options": {
+      "A": "40 J",
+      "B": "400 J",
+      "C": "4000 J",
+      "D": "40 000 J"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 123,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "In an experiment, a radio-controlled car takes 2.50 ± 0.05 s to travel 40.0 ± 0.1 m. What is the car's average speed and the uncertainty in this value?",
+    "options": {
+      "A": "16 ± 1 m s⁻¹",
+      "B": "16.0 ± 0.2 m s⁻¹",
+      "C": "16.0 ± 0.4 m s⁻¹",
+      "D": "16.00 ± 0.36 m s⁻¹"
+    },
+    "answer": "C",
+    "difficulty": 3
+  },
+  {
+    "id": 124,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "In an experiment to determine the acceleration of free fall using a falling body, what would lead to a value that is too large?",
+    "options": {
+      "A": "air resistance",
+      "B": "dimensions of the body are too large",
+      "C": "measured distance longer than true distance",
+      "D": "measured time longer than true time"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 125,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is the unit watt in terms of SI base units?",
+    "options": {
+      "A": "J s⁻¹",
+      "B": "m² kg s⁻¹",
+      "C": "m² kg s⁻³",
+      "D": "N m s⁻¹"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 126,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "For which quantity is the magnitude a reasonable estimate?",
+    "options": {
+      "A": "frequency of a radio wave: 500 pHz",
+      "B": "mass of an atom: 500 µg",
+      "C": "the Young modulus of a metal: 500 kPa",
+      "D": "wavelength of green light: 500 nm"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 131,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which statement using prefixes of the base unit metre (m) is not correct?",
+    "options": {
+      "A": "1 pm = 10⁻¹² m",
+      "B": "1 nm = 10⁻⁹ m",
+      "C": "1 Mm = 10⁶ m",
+      "D": "1 Gm = 10¹² m"
+    },
+    "answer": "D",
+    "difficulty": 1
+  },
+  {
+    "id": 132,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "An Olympic athlete of mass 80 kg competes in a 100 m race. What is the best estimate of his mean kinetic energy during the race?",
+    "options": {
+      "A": "4 × 10² J",
+      "B": "4 × 10³ J",
+      "C": "4 × 10⁴ J",
+      "D": "4 × 10⁵ J"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 133,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which group of quantities contains only vectors?",
+    "options": {
+      "A": "acceleration, displacement, speed",
+      "B": "acceleration, work, electric field strength",
+      "C": "displacement, force, velocity",
+      "D": "power, electric field strength, force"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 135,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The Young modulus of the material of a wire is to be found. The Young modulus E is given by the equation E = 4Fl / (πd²x). The wire is extended by a known force and the following measurements are made: length of wire l = 2.043 ± 0.002 m, diameter of wire d = 0.54 ± 0.02 mm, force applied F = 19.62 ± 0.01 N, extension of wire x = 5.2 ± 0.2 mm. Which measurement has the largest effect on the uncertainty in the value of the calculated Young modulus?",
+    "options": {
+      "A": "length of wire before force applied (l)",
+      "B": "diameter of wire (d)",
+      "C": "force applied (F)",
+      "D": "extension of wire with force applied (x)"
+    },
+    "answer": "B",
+    "difficulty": 3
+  },
+  {
+    "id": 136,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which quantity can be measured in electronvolts (eV)?",
+    "options": {
+      "A": "electric charge",
+      "B": "electric potential",
+      "C": "energy",
+      "D": "power"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 137,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "What is the ratio (10⁻³ THz) / (10³ kHz)?",
+    "options": {
+      "A": "10⁻⁹",
+      "B": "10⁻⁶",
+      "C": "10⁰",
+      "D": "10³"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 138,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The following physical quantities can be either positive or negative: s (displacement along a straight line), θ (temperature on the Celsius scale), q (electric charge), V (readings on a digital voltmeter). Which of these quantities are vectors?",
+    "options": {
+      "A": "s, θ, q, V",
+      "B": "s, q, V only",
+      "C": "θ, V only",
+      "D": "s only"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 139,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A micrometer is used to measure the diameters of two cylinders. Diameter of first cylinder = 12.78 ± 0.02 mm, diameter of second cylinder = 16.24 ± 0.03 mm. The difference in the diameters is calculated. What is the uncertainty in this difference?",
+    "options": {
+      "A": "±0.01 mm",
+      "B": "±0.02 mm",
+      "C": "±0.03 mm",
+      "D": "±0.05 mm"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 140,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The speedometer in a car consists of a pointer which rotates. The pointer is situated several millimetres from a calibrated scale. What could cause a random error in the driver's measurement of the car's speed?",
+    "options": {
+      "A": "The car's speed is affected by the wind direction.",
+      "B": "The driver's eye is not always in the same position in relation to the pointer.",
+      "C": "The speedometer does not read zero when the car is at rest.",
+      "D": "The speedometer reads 10% higher than the car's actual speed."
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 141,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Decimal sub-multiples and multiples of units are indicated using a prefix to the unit. For example, the prefix milli (m) represents 10⁻³. Which row gives the sub-multiples or multiples represented by pico (p) and giga (G)?",
+    "options": {
+      "A": "pico = 10⁻⁹, giga = 10⁹",
+      "B": "pico = 10⁻⁹, giga = 10¹²",
+      "C": "pico = 10⁻¹², giga = 10⁹",
+      "D": "pico = 10⁻¹², giga = 10¹²"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 142,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which definition is correct and uses only quantities rather than units?",
+    "options": {
+      "A": "Density is mass per cubic metre.",
+      "B": "Potential difference is energy per unit current.",
+      "C": "Pressure is force per unit area.",
+      "D": "Speed is distance travelled per second."
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 146,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Stress has the same SI base units as",
+    "options": {
+      "A": "force",
+      "B": "mass / length",
+      "C": "force / area",
+      "D": "energy"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 147,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "To check calculations, the units are put into the following equations together with the numbers. Which equation must be incorrect?",
+    "options": {
+      "A": "force = 300 J / 6 m",
+      "B": "power = 6000 J x 20 s",
+      "C": "time = 6 m / 30 ms⁻¹",
+      "D": "velocity = 4 ms⁻² x 30 s"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 148,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "In making reasonable estimates of physical quantities, which statement is not correct?",
+    "options": {
+      "A": "The frequency of sound can be of the order of GHz.",
+      "B": "The wavelength of light can be of the order of 600 nm.",
+      "C": "The Young modulus can be of the order of 10¹¹ Pa.",
+      "D": "Beta radiation is associated with one unit of negative charge."
+    },
+    "answer": "A",
+    "difficulty": 2
+  },
+  {
+    "id": 151,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A signal has a frequency of 2.0 MHz. What is the period of the signal?",
+    "options": {
+      "A": "2 µs",
+      "B": "5 µs",
+      "C": "200 ns",
+      "D": "500 ns"
+    },
+    "answer": "D",
+    "difficulty": 1
+  },
+  {
+    "id": 152,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A metal sphere of radius r is dropped into a tank of water. As it sinks at speed v, it experiences a drag force F given by F = krv, where k is a constant. What are the SI base units of k?",
+    "options": {
+      "A": "kg m² s⁻¹",
+      "B": "kg m⁻² s⁻²",
+      "C": "kg m⁻¹ s⁻¹",
+      "D": "kg m s⁻²"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 153,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which physical quantity would result from a calculation in which a potential difference is multiplied by an electric charge?",
+    "options": {
+      "A": "electric current",
+      "B": "electric energy",
+      "C": "electric field strength",
+      "D": "electric power"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 157,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "Which row shows a base quantity with its correct SI unit?",
+    "options": {
+      "A": "current | A",
+      "B": "mass | g",
+      "C": "temperature | °C",
+      "D": "weight | N"
+    },
+    "answer": "A",
+    "difficulty": 1
+  },
+  {
+    "id": 158,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The frictional force F on a sphere falling through a fluid is given by the formula F = 6πηav where a is the radius of the sphere, η is a constant relating to the fluid and v is the velocity of the sphere. What are the units of η?",
+    "options": {
+      "A": "kg m s⁻¹",
+      "B": "kg m⁻¹ s⁻¹",
+      "C": "kg m s⁻³",
+      "D": "kg m³ s⁻³"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 160,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A metre rule is used to measure the length of a piece of wire. It is found to be 70 cm long to the nearest millimetre. How should this result be recorded in a table of results?",
+    "options": {
+      "A": "0.7 m",
+      "B": "0.70 m",
+      "C": "0.700 m",
+      "D": "0.7000 m"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 161,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A quantity x is to be determined from the equation x = P - Q. P is measured as 1.27 ± 0.02 m. Q is measured as 0.83 ± 0.01 m. What is the percentage uncertainty in x to one significant figure?",
+    "options": {
+      "A": "0.4%",
+      "B": "2%",
+      "C": "3%",
+      "D": "7%"
+    },
+    "answer": "D",
+    "difficulty": 3
+  },
+  {
+    "id": 162,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The SI unit for potential difference (the volt) is given, in base units, by",
+    "options": {
+      "A": "kg m A⁻¹ s⁻³",
+      "B": "m² A⁻¹ s⁻²",
+      "C": "kg m² s⁻²",
+      "D": "kg m² A⁻¹ s⁻³"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 163,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "The product of pressure and volume has the same SI base units as",
+    "options": {
+      "A": "energy.",
+      "B": "force.",
+      "C": "force / area.",
+      "D": "force / length."
+    },
+    "answer": "A",
+    "difficulty": 2
+  },
+  {
+    "id": 164,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "An ion is accelerated by a series of electrodes in a vacuum. A graph of the power supplied to the ion is plotted against time. What is represented by the area under the graph between two times?",
+    "options": {
+      "A": "the change in kinetic energy of the ion",
+      "B": "the average force on the ion",
+      "C": "the change in momentum of the ion",
+      "D": "the change in velocity of the ion"
+    },
+    "answer": "A",
+    "difficulty": 2
+  },
+  {
+    "id": 167,
+    "topic": "SI Units, Measurements and Uncertainty",
+    "question": "A student finds the density of a liquid by measuring its mass and its volume. The following is a summary of his measurements: mass of empty beaker = (20 ± 1) g, mass of beaker + liquid = (70 ± 1) g, volume of liquid = (10.0 ± 0.6) cm³. He correctly calculates the density of the liquid as 5.0 g cm⁻³. What is the uncertainty in this value?",
+    "options": {
+      "A": "0.3 g cm⁻³",
+      "B": "0.5 g cm⁻³",
+      "C": "0.6 g cm⁻³",
+      "D": "2.6 g cm⁻³"
+    },
+    "answer": "B",
+    "difficulty": 3
+  },
+  {
+    "id": 3,
+    "topic": "Kinematics",
+    "question": "Two cars X and Y are travelling in the same direction. X is 50 m behind Y and has a constant velocity of 30 ms⁻¹. Y has a constant velocity of 20 ms⁻¹. What is the value of time t when X is level with Y?",
+    "options": {
+      "A": "1.0 s",
+      "B": "1.7 s",
+      "C": "2.5 s",
+      "D": "5.0 s"
+    },
+    "answer": "D",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "topic": "Kinematics",
+    "question": "A ball travels from point X to point Y around a semi-circular track of radius 1.0 m. What is the magnitude and direction of the displacement of the ball from X to Y?",
+    "options": {
+      "A": "2.0 m",
+      "B": "2.0 m due south",
+      "C": "3.1 m",
+      "D": "3.1 m due south"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "topic": "Kinematics",
+    "question": "The water surface in a deep well is 78.0m below the top of the well. A person at the top of the well drops a heavy stone down the well. Air resistance is negligible. The speed of sound in the air is 330 ms⁻¹. What is the time interval between the person dropping the stone and hearing it hitting the water?",
+    "options": {
+      "A": "3.75 s",
+      "B": "3.99 s",
+      "C": "4.19 s",
+      "D": "4.22 s"
+    },
+    "answer": "D",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "topic": "Kinematics",
+    "question": "A boy throws a ball vertically upwards. It rises to a maximum height, where it is momentarily at rest, and then falls back to his hands. Which row gives the acceleration of the ball at various stages in its motion? (Take vertically upwards as positive. Ignore air resistance.)",
+    "options": {
+      "A": "rising = -9.81 ms⁻², at maximum height = 0, falling = +9.81 ms⁻²",
+      "B": "rising = -9.81 ms⁻², at maximum height = -9.81 ms⁻², falling = -9.81 ms⁻²",
+      "C": "rising = +9.81 ms⁻², at maximum height = +9.81 ms⁻², falling = +9.81 ms⁻²",
+      "D": "rising = +9.81 ms⁻², at maximum height = 0, falling = -9.81 ms⁻²"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "topic": "Kinematics",
+    "question": "An insect jumps with an initial vertical velocity of 1.0 ms⁻¹, reaching a maximum height of 3.5 × 10⁻² m. Assume the deceleration is uniform. What is the magnitude of the deceleration?",
+    "options": {
+      "A": "3.6 ms⁻²",
+      "B": "9.8 ms⁻²",
+      "C": "14 ms⁻²",
+      "D": "29 ms⁻²"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "topic": "Kinematics",
+    "question": "A body having uniform acceleration a increases its velocity from u to v in time t. Which expression would not give a correct value for the body's displacement during time t?",
+    "options": {
+      "A": "ut + 0.5at²",
+      "B": "vt - 0.5at²",
+      "C": "(v+u)(v-u) / 2a",
+      "D": "(v-u)t / 2"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "topic": "Kinematics",
+    "question": "In an experiment to determine the acceleration of free fall g, a ball bearing is held by an electromagnet. When the current to the electromagnet is switched off, a clock starts and the ball bearing falls. After falling a distance h, the ball bearing strikes a switch to stop the clock which measures the time t of the fall. If systematic errors cause t and h to be measured incorrectly, which error must cause g to appear greater than 9.81 ms⁻²?",
+    "options": {
+      "A": "h measured as being smaller than it actually is and t is measured correctly",
+      "B": "h measured as being smaller than it actually is and t measured as being larger than it actually is",
+      "C": "h measured as being larger than it actually is and t measured as being larger than it actually is",
+      "D": "h is measured correctly and t measured as being smaller than it actually is"
+    },
+    "answer": "D",
+    "difficulty": 3
+  },
+  {
+    "id": 25,
+    "topic": "Kinematics",
+    "question": "A sprinter runs a 100 m race in a straight line. He accelerates from the starting block at a constant acceleration of 2.5 ms⁻² to reach his maximum speed of 10 ms⁻¹. He maintains this speed until he crosses the finish line. Which time does it take the sprinter to run the race?",
+    "options": {
+      "A": "4 s",
+      "B": "10 s",
+      "C": "12 s",
+      "D": "20 s"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "topic": "Kinematics",
+    "question": "A firework rocket is fired vertically upwards. The fuel burns and produces a constant upwards force on the rocket. After 5 seconds there is no fuel left. Air resistance is negligible. What is the acceleration before and after 5 seconds?",
+    "options": {
+      "A": "before = constant, after = constant",
+      "B": "before = constant, after = zero",
+      "C": "before = increasing, after = constant",
+      "D": "before = increasing, after = zero"
+    },
+    "answer": "C",
+    "difficulty": 3
+  },
+  {
+    "id": 29,
+    "topic": "Kinematics",
+    "question": "A body falling in a uniform gravitational field encounters air resistance. The air resistance increases until terminal velocity is reached. Which factor does not affect its terminal velocity?",
+    "options": {
+      "A": "the density of the air",
+      "B": "the height from which the body falls",
+      "C": "the mass of the body",
+      "D": "the shape of the body"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "topic": "Kinematics",
+    "question": "The acceleration of free fall on the Moon is one-sixth of that on Earth. On Earth it takes time t for a stone to fall from rest a distance of 2 m. What is the time taken for a stone to fall from rest a distance of 2 m on the Moon?",
+    "options": {
+      "A": "6t",
+      "B": "t / 6",
+      "C": "t * sqrt(6)",
+      "D": "t / sqrt(6)"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "topic": "Kinematics",
+    "question": "A tennis ball is thrown horizontally in air from the top of a tall building. If the effect of air resistance is not negligible, what happens to the horizontal and vertical components of the ball's velocity?",
+    "options": {
+      "A": "horizontal = constant, vertical = constant",
+      "B": "horizontal = constant, vertical = increases at a constant rate",
+      "C": "horizontal = decreases to zero, vertical = increases at a constant rate",
+      "D": "horizontal = decreases to zero, vertical = increases to a maximum value"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "topic": "Kinematics",
+    "question": "An object is thrown with velocity 5.2 ms⁻¹ vertically upwards on the Moon. The acceleration due to gravity on the Moon is 1.62 ms⁻². What is the time taken for the object to return to its starting point?",
+    "options": {
+      "A": "2.5 s",
+      "B": "3.2 s",
+      "C": "4.5 s",
+      "D": "6.4 s"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "topic": "Kinematics",
+    "question": "An experiment is performed to measure the acceleration of free fall g. A body falls between two fixed points. Which measurement is not required for the calculation of g?",
+    "options": {
+      "A": "the distance fallen by the body",
+      "B": "the initial velocity of the body",
+      "C": "the mass of the body",
+      "D": "the time taken for the body to fall"
+    },
+    "answer": "C",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "topic": "Kinematics",
+    "question": "In a cathode-ray tube, an electron is accelerated uniformly in a straight line from a speed of 4 × 10³ ms⁻¹ to 2 × 10⁷ ms⁻¹ over a distance of 10 mm. What is the acceleration of the electron?",
+    "options": {
+      "A": "2 × 10³ ms⁻²",
+      "B": "2 × 10⁶ ms⁻²",
+      "C": "2 × 10¹³ ms⁻²",
+      "D": "2 × 10¹⁶ ms⁻²"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "topic": "Kinematics",
+    "question": "On a particular railway, a train driver applies the brake of the train at a yellow signal, a distance of 1.0 km from a red signal, where the train stops. The maximum deceleration of the train is 0.20 ms⁻². Assuming uniform deceleration, what is the maximum safe speed of the train at the yellow signal?",
+    "options": {
+      "A": "14 ms⁻¹",
+      "B": "20 ms⁻¹",
+      "C": "40 ms⁻¹",
+      "D": "400 ms⁻¹"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "topic": "Kinematics",
+    "question": "A person, travelling on a motorway a total distance of 200 km, travels the first 90 km at an average speed of 80 kmh⁻¹. Which average speed must be obtained for the rest of the journey if the person is to reach the destination in a total time of 2 hours 0 minutes?",
+    "options": {
+      "A": "110 kmh⁻¹",
+      "B": "120 kmh⁻¹",
+      "C": "122 kmh⁻¹",
+      "D": "126 kmh⁻¹"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "topic": "Kinematics",
+    "question": "A cannon fires a cannonball with an initial speed v at an angle α to the horizontal. Which equation is correct for the maximum height H reached?",
+    "options": {
+      "A": "H = (v sin α) / 2g",
+      "B": "H = (g sin α) / 2v",
+      "C": "H = (v sin α)² / 2g",
+      "D": "H = g² sin α / 2v"
+    },
+    "answer": "C",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "topic": "Kinematics",
+    "question": "A body is released from rest and falls vertically in air of constant density. Which statement about the motion of the falling body is correct?",
+    "options": {
+      "A": "As it accelerates, its weight decreases so that its acceleration decreases until it travels with constant velocity.",
+      "B": "It accelerates initially at 9.8 ms⁻² but the drag force increases so its acceleration decreases.",
+      "C": "Its velocity increases at a constant rate until its velocity becomes constant.",
+      "D": "The drag force of the air increases continually and eventually the velocity decreases."
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "topic": "Kinematics",
+    "question": "A goods train passes through a station at a steady speed of 10 ms⁻¹. An express train is at rest at the station. The express train leaves the station with a uniform acceleration of 0.5 ms⁻² just as the goods train goes past. Both trains move in the same direction on straight, parallel tracks. How much time passes before the express train overtakes the goods train?",
+    "options": {
+      "A": "6 s",
+      "B": "10 s",
+      "C": "20 s",
+      "D": "40 s"
+    },
+    "answer": "D",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "topic": "Kinematics",
+    "question": "A ball is thrown vertically in air. Neglecting air resistance, which property of the ball can never be zero at any time during the flight?",
+    "options": {
+      "A": "acceleration",
+      "B": "kinetic energy",
+      "C": "speed",
+      "D": "velocity"
+    },
+    "answer": "A",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "topic": "Kinematics",
+    "question": "A science museum designs an experiment to show the fall of a feather in a vertical glass vacuum tube. The time of fall from rest is to be close to 0.5 s. What length of tube is required?",
+    "options": {
+      "A": "1.3 m",
+      "B": "2.5 m",
+      "C": "5.0 m",
+      "D": "10.0 m"
+    },
+    "answer": "A",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "topic": "Kinematics",
+    "question": "A bicycle brakes so that it undergoes uniform deceleration from a speed of 8 ms⁻¹ to 6 ms⁻¹ over a distance of 7 m. If the deceleration of the bicycle remains constant, what further distance will it travel before coming to rest?",
+    "options": {
+      "A": "7 m",
+      "B": "9 m",
+      "C": "16 m",
+      "D": "21 m"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "topic": "Kinematics",
+    "question": "Which feature of a graph allows acceleration to be determined?",
+    "options": {
+      "A": "the area under a displacement-time graph",
+      "B": "the area under a velocity-time graph",
+      "C": "the slope of a displacement-time graph",
+      "D": "the slope of a velocity-time graph"
+    },
+    "answer": "D",
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "topic": "Kinematics",
+    "question": "A projectile is launched at point O and follows a parabolic path. Air resistance may be neglected. Which statement is true for the projectile when it is at the highest point of its path?",
+    "options": {
+      "A": "The horizontal component of the projectile's acceleration is zero.",
+      "B": "The horizontal component of the projectile's velocity is zero.",
+      "C": "The kinetic energy of the projectile is zero.",
+      "D": "The momentum of the projectile is zero."
+    },
+    "answer": "A",
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "topic": "Kinematics",
+    "question": "A boy throws a ball vertically upwards. It rises to a maximum height, where it is momentarily at rest, and then falls back to his hands. Which row gives the acceleration of the ball at various stages in its motion? (Take vertically upwards as positive. Ignore air resistance.)",
+    "options": {
+      "A": "rising = -9.81 ms⁻², at maximum height = 0, falling = +9.81 ms⁻²",
+      "B": "rising = -9.81 ms⁻², at maximum height = -9.81 ms⁻², falling = -9.81 ms⁻²",
+      "C": "rising = +9.81 ms⁻², at maximum height = +9.81 ms⁻², falling = +9.81 ms⁻²",
+      "D": "rising = +9.81 ms⁻², at maximum height = 0, falling = -9.81 ms⁻²"
+    },
+    "answer": "B",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "topic": "Kinematics",
+    "question": "A body falling in a uniform gravitational field encounters air resistance. The air resistance increases until terminal velocity is reached. Which factor does not affect its terminal velocity?",
+    "options": {
+      "A": "the density of the air",
+      "B": "the height from which the body falls",
+      "C": "the mass of the body",
+      "D": "the shape of the body"
+    },
+    "answer": "B",
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "topic": "Kinematics",
+    "question": "A stone of mass m is dropped from a tall building. There is significant air resistance. The acceleration of free fall is g. When the stone reaches its terminal velocity, which information is correct?",
+    "options": {
+      "A": "acceleration = g, gravity force = mg, air resistance force = mg",
+      "B": "acceleration = zero, gravity force = mg, air resistance force = mg",
+      "C": "acceleration = zero, gravity force = zero, air resistance force = mg",
+      "D": "acceleration = zero, gravity force = zero, air resistance force = zero"
+    },
+    "answer": "B",
+    "difficulty": 2
+  }
+]
